@@ -4,4 +4,4 @@
 - GMT: -4:00
 
 ## Estatísticas:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmartines)](https://github.com/alanmartines/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmartines&theme=dark&show_icons=true)](https://github.com/alanmartines/github-readme-stats)
