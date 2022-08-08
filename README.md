@@ -11,6 +11,9 @@
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=AlanMartines&theme=onedark&no-frame=false&no-bg=true&margin-w=5" />
   <img height="180em" src="https://github.com/AlanMartines/AlanMartines/blob/output/github-contribution-grid-snake.svg" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlanMartines&style=for-the-badge&color=orange">
+</p>
 
 ## Algumas informações para os interessados:
 
