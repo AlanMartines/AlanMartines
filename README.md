@@ -20,7 +20,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlanMartines/AlanMartines/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AlanMartines/AlanMartines/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
