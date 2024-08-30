@@ -53,11 +53,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/windows/0078D6" height="40" alt="windows8 logo"  />
+  <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="40" alt="windows logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683" height="40" alt="kali logo"  />
 </div>
 
 ###
