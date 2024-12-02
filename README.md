@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Sou Técnico em Informática</p>
+<p align="center">Experiente em infraestrutura de TI</p>
 
 ###
 
