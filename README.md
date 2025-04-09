@@ -50,7 +50,7 @@
 
 💻 **Bio**  
 - Experiente em infraestrutura de TI, suporte técnico e redes.  
-- Especialista em manutenção de hardware, configuração de redes e gestão de sistemas operacionais.  
+- Experiente em manutenção de hardware, configuração de redes e gestão de sistemas operacionais.  
 - Sempre aberto a novos desafios e aprendizagens no mundo da tecnologia.
 
 ---
