@@ -16,7 +16,6 @@
 
 ### 📊 Estatísticas do GitHub
 
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AlanMartines&locale=pt-br&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanMartines&radius=16&theme=vue&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
