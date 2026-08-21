@@ -17,12 +17,17 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlanMartines&locale=pt-br&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanMartines&radius=16&theme=vue&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
-</div>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanMartines&theme=vue"
+    height="180"
+    alt="Estatísticas do GitHub"
+  />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AlanMartines/AlanMartines/output/snake.svg" alt="Snake animation" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AlanMartines&theme=vue&area=true&hide_border=false"
+    width="100%"
+    alt="Gráfico de atividades do GitHub"
+  />
 </div>
 
 ---
