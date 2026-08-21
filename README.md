@@ -1,68 +1,95 @@
-<h1 align="center">👋 Olá! Eu sou Alan Martines</h1>
+<h1 align="center">Alan Martines</h1>
 
 <p align="center">
-  <b>Analista de Infraestrutura de TI & Desenvolvedor Full Stack</b><br>
-  Transformando desafios técnicos em soluções eficientes através de infraestrutura robusta e código limpo.
+  <strong>Analista de Infraestrutura de TI & Desenvolvedor Full Stack</strong>
 </p>
 
----
+<p align="center">
+  Infraestrutura confiável, automação de processos e desenvolvimento de soluções web.
+</p>
 
-### 🚀 Foco Atual
-- 🛠️ Desenvolvimento de sistemas utilizando **PHP** e **Node.js**.
-- 📱 Integração e automação com **APIs de WhatsApp**.
-- 🏗️ Gerenciamento de infraestrutura com **Docker**, **Nginx** e bancos de dados **PostgreSQL/MySQL**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/alanmartines/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alan%20Martines-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:alancpmartines@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-alancpmartines%40hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
+  </a>
+</p>
 
----
+Sobre mim
 
-### 📊 Estatísticas do GitHub
+Profissional de infraestrutura de TI com experiência em suporte técnico, redes, administração de sistemas e sustentação de ambientes corporativos. Também desenvolvo aplicações web, APIs e automações, conectando infraestrutura e software para entregar soluções seguras, estáveis e de fácil manutenção.
+
+Administração e suporte de ambientes Windows e Linux.
+
+Configuração e sustentação de redes, servidores e serviços em nuvem.
+
+Conteinerização e publicação de aplicações com Docker, Nginx e Apache.
+
+Desenvolvimento backend com PHP, Node.js, TypeScript e Python.
+
+Integração de sistemas e automação utilizando APIs, incluindo soluções para WhatsApp.
+
+Administração e integração com bancos de dados PostgreSQL e MySQL.
+
+Competências técnicas
+
+Infraestrutura e DevOps
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="36" alt="Windows" title="Windows" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" title="Nginx" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="36" alt="Apache" title="Apache" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions" title="GitHub Actions" />
+</p>
+
+Desenvolvimento e bancos de dados
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" title="PHP" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" />
+</p>
+
+Foco atual
+
+Desenvolvimento e sustentação de aplicações corporativas com PHP e Node.js.
+
+Integração e automação de processos por meio de APIs.
+
+Padronização de ambientes e implantação de serviços conteinerizados.
+
+Aprimoramento de práticas de versionamento, CI/CD, segurança e observabilidade.
+
+Atividade no GitHub
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanMartines&theme=vue"
-    height="180"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AlanMartines&theme=vue&area=true&hide_border=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AlanMartines&theme=github-compact&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias"
     width="100%"
-    alt="Gráfico de atividades do GitHub"
+    alt="Gráfico de contribuições de Alan Martines no GitHub"
   />
 </div>
 
----
-
-### 🛠️ Linguagens e Ferramentas
-
-#### **Backend & Databases**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-</div>
-
-#### **Infra & DevOps**
-<div align="left">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="Apache" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
-</div>
-
----
-
-### 👨‍💻 Sobre Mim
-
-Sou um profissional apaixonado por tecnologia com vasta experiência em **infraestrutura de redes e suporte técnico**. Atualmente, utilizo esse background para construir aplicações web seguras e escaláveis.
-
-- 🖥️ Experiência em manutenção de hardware e gestão de sistemas operacionais (Windows/Linux).
-- ⚙️ Especialista em configurar ambientes de servidor e fluxos de CI/CD simplificados.
-- 💡 Sempre em busca de aprender novas tecnologias para resolver problemas complexos.
-
----
-
-🌟 _"A tecnologia é o motor que move o futuro, e o aprendizado constante é a chave para acompanhá-lo."_
+<p align="center">
+  <sub>Infraestrutura, desenvolvimento e automação orientados à confiabilidade.</sub>
+</p>
