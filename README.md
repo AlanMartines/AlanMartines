@@ -28,10 +28,12 @@
 
 ## 🧑‍💻 Sobre mim
 
-Analista de Infraestrutura de TI com **mais de 7 anos no cargo** e atuação em suporte técnico desde 2007. Tenho experiência em redes, manutenção de hardware, administração de servidores e sustentação de ambientes corporativos. Também desenvolvo aplicações web, APIs e automações, conectando infraestrutura e software para entregar soluções **seguras, estáveis e de fácil manutenção**.
+Analista de Infraestrutura de TI com **mais de 7 anos no cargo** e atuação em suporte técnico desde 2007. Hoje respondo, com autonomia técnica, pela administração e evolução de um ambiente corporativo: servidores, virtualização, redes, segurança, monitoramento e backup. Também desenvolvo aplicações web, APIs e automações, conectando infraestrutura e software para entregar soluções **seguras, estáveis e de fácil manutenção**.
 
-- 🖥️ Administração de servidores **Windows** e **Linux**, incluindo virtualização com **Hyper-V**
-- 🌐 Configuração de ativos de rede (switches, access points e rádios ponto a ponto) e redes cabeadas e sem fio
+- 🖥️ Administração de **Windows Server** e **Linux**, com virtualização em **Hyper-V** e **Proxmox VE**
+- 🛡️ Redes e segurança com firewalls **pfSense**, switches, **VLANs**, **VPNs** e redes LAN/WAN
+- 📊 Monitoramento e observabilidade com **Zabbix** e **Grafana**
+- 💾 Rotinas de backup, integridade de dados e recuperação de ambientes
 - 🐳 Conteinerização e publicação de aplicações com **Docker**, **Nginx** e **Apache**
 - ⚙️ Desenvolvimento backend com **PHP**, **Node.js**, **TypeScript** e **Python**
 - 🔗 Integração de sistemas e automação via APIs, incluindo soluções para **WhatsApp**
@@ -45,6 +47,12 @@ Analista de Infraestrutura de TI com **mais de 7 anos no cargo** e atuação em 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="36" alt="Windows" title="Windows" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" height="36" alt="Proxmox VE" title="Proxmox VE" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pfsense/pfsense-original.svg" height="36" alt="pfSense" title="pfSense" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="36" alt="Grafana" title="Grafana" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" />
   &nbsp;
@@ -81,7 +89,7 @@ Analista de Infraestrutura de TI com **mais de 7 anos no cargo** e atuação em 
 
 ### [EletroInfo Tecnologia](https://www.eletroinfotecnologia.com.br)
 
-Empresa própria, com uma caixa de ferramentas online e gratuita de **mais de 80 calculadoras e verificações técnicas**, criada para *simplificar a complexidade*:
+Sou fundador e desenvolvedor da EletroInfo, empresa de software, automação, infraestrutura de TI e suporte especializado. O principal projeto é a **[EletroInfo Tools](https://www.eletroinfotecnologia.com.br/tools/)**, uma plataforma online e gratuita com **mais de 80 ferramentas e calculadoras técnicas**, criada para *simplificar a complexidade*:
 
 - 🌐 Conectividade e planejamento de redes
 - 📧 Autenticação de e-mail (SPF, DKIM e DMARC)
@@ -99,11 +107,16 @@ Empresa própria, com uma caixa de ferramentas online e gratuita de **mais de 80
 | out/2014 – jan/2015 | Auxiliar Técnico | Mauro de Almeida Nunes Junior |
 | jul/2007 – mai/2013 | Auxiliar Técnico (suporte N1, ADSL e dados, operadora Oi) | Telemont |
 
-**Principais atividades:** suporte técnico a usuários, manutenção preventiva e corretiva de computadores e servidores, gestão de ativos de rede e impressoras, administração de servidores Windows/Linux em Hyper-V e participação em projetos e documentação de infraestrutura.
+**Fertiterra:** sustentação e evolução da infraestrutura com autonomia técnica. Administração de Windows Server, Linux, Hyper-V e Proxmox VE (provisionamento e migração de VMs), firewalls pfSense, VLANs e VPNs, monitoramento com Zabbix e Grafana, serviços em Docker, rotinas de backup e condução técnica de projetos de modernização e padronização.
+
+**Grupo Produzir:** operação e suporte da infraestrutura corporativa. Atendimento e resolução de incidentes, manutenção de servidores Windows e Linux, apoio à administração do Hyper-V, configuração de switches, access points e rádios, monitoramento preventivo, backup e documentação técnica.
 
 ## 🎓 Formação
 
 - 🎓 **Pós-graduação em DevOps** — Estácio _(em andamento, jan/2026 – dez/2026)_
+- 🎓 **Pós-graduação em Banco de Dados** — Faculdade de Minas _(jan/2026 – mai/2026)_
+- 🎓 **Pós-graduação em Computação em Nuvem (Cloud Computing)** — Faculdade de Minas _(jan/2026 – mai/2026)_
+- 🎓 **Pós-graduação em Inteligência Artificial** — Faculdade de Minas _(jan/2026 – mai/2026)_
 - 🎓 **CST em Redes de Computadores** — Estácio _(jun/2023 – jan/2026)_
 
 ## 📜 Certificações e cursos
@@ -116,10 +129,10 @@ Empresa própria, com uma caixa de ferramentas online e gratuita de **mais de 80
 
 ## 🎯 Foco atual
 
-- Desenvolvimento e sustentação de aplicações corporativas com PHP e Node.js
-- Integração e automação de processos por meio de APIs
-- Padronização de ambientes e implantação de serviços conteinerizados
-- Aprimoramento de práticas de versionamento, CI/CD, segurança e observabilidade
+- Evolução da infraestrutura com virtualização em Proxmox VE e serviços conteinerizados
+- Monitoramento e observabilidade com Zabbix e Grafana
+- Práticas de DevOps: versionamento, CI/CD e automação de ambientes
+- Desenvolvimento da plataforma EletroInfo Tools e integração de processos via APIs
 
 ## 📈 Atividade no GitHub
 
