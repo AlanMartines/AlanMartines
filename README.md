@@ -79,14 +79,6 @@ Profissional de infraestrutura de TI com experiência em suporte técnico, redes
 ## 📈 Atividade no GitHub
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AlanMartines&theme=github-compact&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias"
-    width="100%"
-    alt="Gráfico de contribuições de Alan Martines no GitHub"
-  />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlanMartines/AlanMartines/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlanMartines/AlanMartines/output/github-contribution-grid-snake.svg" />
