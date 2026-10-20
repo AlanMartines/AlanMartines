@@ -37,7 +37,7 @@ Analista de Infraestrutura de TI com **mais de 7 anos no cargo** e atuação em 
 - 🐳 Conteinerização e publicação de aplicações com **Docker**, **Nginx** e **Apache**
 - ⚙️ Desenvolvimento backend com **PHP**, **Node.js**, **TypeScript** e **Python**
 - 🔗 Integração de sistemas e automação via APIs, incluindo soluções para **WhatsApp**
-- 🗄️ Administração e integração com bancos de dados **PostgreSQL** e **MySQL**
+- 🗄️ Administração e integração com bancos de dados **PostgreSQL**, **MySQL** e **MariaDB**
 
 ## 🛠️ Competências técnicas
 
@@ -79,6 +79,8 @@ Analista de Infraestrutura de TI com **mais de 7 anos no cargo** e atuação em 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="36" alt="MariaDB" title="MariaDB" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" title="MongoDB" />
   &nbsp;
