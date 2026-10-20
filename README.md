@@ -1,4 +1,4 @@
-<h1 align="center">Alan Martines</h1>
+<h1 align="center">Olá, eu sou o Alan Martines 👋</h1>
 
 <p align="center">
   <strong>Analista de Infraestrutura de TI & Desenvolvedor Full Stack</strong>
@@ -12,31 +12,30 @@
   <a href="https://www.linkedin.com/in/alanmartines/">
     <img src="https://img.shields.io/badge/LinkedIn-Alan%20Martines-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
   <a href="mailto:alancpmartines@hotmail.com">
     <img src="https://img.shields.io/badge/E--mail-alancpmartines%40hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
   </a>
+  <a href="https://github.com/AlanMartines?tab=repositories">
+    <img src="https://img.shields.io/github/followers/AlanMartines?label=Seguidores&style=flat-square&logo=github&color=181717" alt="Seguidores no GitHub" />
+  </a>
 </p>
 
-Sobre mim
+---
 
-Profissional de infraestrutura de TI com experiência em suporte técnico, redes, administração de sistemas e sustentação de ambientes corporativos. Também desenvolvo aplicações web, APIs e automações, conectando infraestrutura e software para entregar soluções seguras, estáveis e de fácil manutenção.
+## 🧑‍💻 Sobre mim
 
-Administração e suporte de ambientes Windows e Linux.
+Profissional de infraestrutura de TI com experiência em suporte técnico, redes, administração de sistemas e sustentação de ambientes corporativos. Também desenvolvo aplicações web, APIs e automações, conectando infraestrutura e software para entregar soluções **seguras, estáveis e de fácil manutenção**.
 
-Configuração e sustentação de redes, servidores e serviços em nuvem.
+- 🖥️ Administração e suporte de ambientes **Windows** e **Linux**
+- 🌐 Configuração e sustentação de redes, servidores e serviços em nuvem
+- 🐳 Conteinerização e publicação de aplicações com **Docker**, **Nginx** e **Apache**
+- ⚙️ Desenvolvimento backend com **PHP**, **Node.js**, **TypeScript** e **Python**
+- 🔗 Integração de sistemas e automação via APIs, incluindo soluções para **WhatsApp**
+- 🗄️ Administração e integração com bancos de dados **PostgreSQL** e **MySQL**
 
-Conteinerização e publicação de aplicações com Docker, Nginx e Apache.
+## 🛠️ Competências técnicas
 
-Desenvolvimento backend com PHP, Node.js, TypeScript e Python.
-
-Integração de sistemas e automação utilizando APIs, incluindo soluções para WhatsApp.
-
-Administração e integração com bancos de dados PostgreSQL e MySQL.
-
-Competências técnicas
-
-Infraestrutura e DevOps
+**Infraestrutura e DevOps**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" />
@@ -54,7 +53,7 @@ Infraestrutura e DevOps
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions" title="GitHub Actions" />
 </p>
 
-Desenvolvimento e bancos de dados
+**Desenvolvimento e bancos de dados**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" title="PHP" />
@@ -70,17 +69,14 @@ Desenvolvimento e bancos de dados
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" />
 </p>
 
-Foco atual
+## 🎯 Foco atual
 
-Desenvolvimento e sustentação de aplicações corporativas com PHP e Node.js.
+- Desenvolvimento e sustentação de aplicações corporativas com PHP e Node.js
+- Integração e automação de processos por meio de APIs
+- Padronização de ambientes e implantação de serviços conteinerizados
+- Aprimoramento de práticas de versionamento, CI/CD, segurança e observabilidade
 
-Integração e automação de processos por meio de APIs.
-
-Padronização de ambientes e implantação de serviços conteinerizados.
-
-Aprimoramento de práticas de versionamento, CI/CD, segurança e observabilidade.
-
-Atividade no GitHub
+## 📈 Atividade no GitHub
 
 <div align="center">
   <img
@@ -89,6 +85,16 @@ Atividade no GitHub
     alt="Gráfico de contribuições de Alan Martines no GitHub"
   />
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlanMartines/AlanMartines/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlanMartines/AlanMartines/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AlanMartines/AlanMartines/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha percorrendo o gráfico de contribuições" />
+  </picture>
+</div>
+
+---
 
 <p align="center">
   <sub>Infraestrutura, desenvolvimento e automação orientados à confiabilidade.</sub>
