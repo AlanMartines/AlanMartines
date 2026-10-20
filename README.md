@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  Infraestrutura confiável, automação de processos e desenvolvimento de soluções web.
+  Infraestrutura confiável, automação de processos e desenvolvimento de soluções web.<br />
+  📍 Campo Grande, MS — Brasil
 </p>
 
 <p align="center">
@@ -14,6 +15,9 @@
   </a>
   <a href="mailto:alancpmartines@hotmail.com">
     <img src="https://img.shields.io/badge/E--mail-alancpmartines%40hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://www.eletroinfotecnologia.com.br">
+    <img src="https://img.shields.io/badge/EletroInfo-Tecnologia-2E7D32?style=flat-square&logo=googlechrome&logoColor=white" alt="EletroInfo Tecnologia" />
   </a>
   <a href="https://github.com/AlanMartines?tab=repositories">
     <img src="https://img.shields.io/github/followers/AlanMartines?label=Seguidores&style=flat-square&logo=github&color=181717" alt="Seguidores no GitHub" />
@@ -24,10 +28,10 @@
 
 ## 🧑‍💻 Sobre mim
 
-Profissional de infraestrutura de TI com experiência em suporte técnico, redes, administração de sistemas e sustentação de ambientes corporativos. Também desenvolvo aplicações web, APIs e automações, conectando infraestrutura e software para entregar soluções **seguras, estáveis e de fácil manutenção**.
+Analista de Infraestrutura de TI com **mais de 7 anos no cargo** e atuação em suporte técnico desde 2007. Tenho experiência em redes, manutenção de hardware, administração de servidores e sustentação de ambientes corporativos. Também desenvolvo aplicações web, APIs e automações, conectando infraestrutura e software para entregar soluções **seguras, estáveis e de fácil manutenção**.
 
-- 🖥️ Administração e suporte de ambientes **Windows** e **Linux**
-- 🌐 Configuração e sustentação de redes, servidores e serviços em nuvem
+- 🖥️ Administração de servidores **Windows** e **Linux**, incluindo virtualização com **Hyper-V**
+- 🌐 Configuração de ativos de rede (switches, access points e rádios ponto a ponto) e redes cabeadas e sem fio
 - 🐳 Conteinerização e publicação de aplicações com **Docker**, **Nginx** e **Apache**
 - ⚙️ Desenvolvimento backend com **PHP**, **Node.js**, **TypeScript** e **Python**
 - 🔗 Integração de sistemas e automação via APIs, incluindo soluções para **WhatsApp**
@@ -67,7 +71,48 @@ Profissional de infraestrutura de TI com experiência em suporte técnico, redes
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" title="MongoDB" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="Express" title="Express" />
 </p>
+
+## 🚀 Projeto em destaque
+
+### [EletroInfo Tecnologia](https://www.eletroinfotecnologia.com.br)
+
+Empresa própria, com uma caixa de ferramentas online e gratuita de **mais de 80 calculadoras e verificações técnicas**, criada para *simplificar a complexidade*:
+
+- 🌐 Conectividade e planejamento de redes
+- 📧 Autenticação de e-mail (SPF, DKIM e DMARC)
+- ⚡ Infraestrutura elétrica e energia
+- 🖥️ Hardware
+- 🦺 Segurança do trabalho (Normas Regulamentadoras)
+- 💰 Cálculos financeiros
+
+## 💼 Experiência
+
+| Período | Cargo | Empresa |
+| --- | --- | --- |
+| dez/2025 – atual | Analista de Infraestrutura de TI Pleno | Fertiterra Agropecuária |
+| out/2018 – dez/2025 | Analista de Infraestrutura de TI Pleno | Grupo Produzir S.A. |
+| out/2014 – jan/2015 | Auxiliar Técnico | Mauro de Almeida Nunes Junior |
+| jul/2007 – mai/2013 | Auxiliar Técnico (suporte N1, ADSL e dados, operadora Oi) | Telemont |
+
+**Principais atividades:** suporte técnico a usuários, manutenção preventiva e corretiva de computadores e servidores, gestão de ativos de rede e impressoras, administração de servidores Windows/Linux em Hyper-V e participação em projetos e documentação de infraestrutura.
+
+## 🎓 Formação
+
+- 🎓 **Pós-graduação em DevOps** — Estácio _(em andamento, jan/2026 – dez/2026)_
+- 🎓 **CST em Redes de Computadores** — Estácio _(jun/2023 – jan/2026)_
+
+## 📜 Certificações e cursos
+
+- Dominando IA Generativa com Claude 3 no Amazon Bedrock
+- Node.js: API REST com Express e MongoDB
+- Node.js e JWT: autenticação com tokens
+- Banco de Dados
+- NR 10: Segurança em Instalações e Serviços em Eletricidade
 
 ## 🎯 Foco atual
 
